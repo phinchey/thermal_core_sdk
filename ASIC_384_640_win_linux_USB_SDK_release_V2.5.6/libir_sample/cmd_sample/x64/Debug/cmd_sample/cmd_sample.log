@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+  camera.cpp
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\camera.cpp(222,50): warning C4018: “<=”: 有符号/无符号不匹配
+  cmd.cpp
+  data.cpp
+  display.cpp
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(67,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(68,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(71,74): warning C4305: “初始化”: 从“double”到“float”截断
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(71,9): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(71,24): warning C4838: 从“int”转换到“uint16_t”需要收缩转换
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(71,36): warning C4838: 从“int”转换到“uint16_t”需要收缩转换
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(323,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(380,47): warning C4018: “<=”: 有符号/无符号不匹配
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\display.cpp(379,17): warning C4101: “now_time”: 未引用的局部变量
+  sample.cpp
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\sample.cpp(169,40): warning C4101: “tid_temperature”: 未引用的局部变量
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\sample.cpp(218,37): warning C4101: “tid_cmd2”: 未引用的局部变量
+D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\cmd_sample\sample.cpp(218,21): warning C4101: “tid2”: 未引用的局部变量
+  正在生成代码...
+  cmd_sample.vcxproj -> D:\WORK\ASIC_384_640_1280\mini384_640\libir_sample\x64\Debug\cmd_sample.exe

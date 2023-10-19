@@ -1,0 +1,1 @@
+#define SAMPLE_VERSION "ASIC_384_640_2.0.8"

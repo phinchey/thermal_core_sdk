@@ -1,0 +1,5 @@
+ASIC_384_640_2.0.8
+libirprocess 0.8.2
+libirparse 0.3.1
+libiruvc 3.1.4 beta4
+libircmd 3.4.4_alpha
